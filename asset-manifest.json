@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ARQUI2-page-react/static/css/main.f855e6bc.css",
+    "main.js": "/ARQUI2-page-react/static/js/main.42089293.js",
+    "static/js/453.c51ad142.chunk.js": "/ARQUI2-page-react/static/js/453.c51ad142.chunk.js",
+    "index.html": "/ARQUI2-page-react/index.html",
+    "main.f855e6bc.css.map": "/ARQUI2-page-react/static/css/main.f855e6bc.css.map",
+    "main.42089293.js.map": "/ARQUI2-page-react/static/js/main.42089293.js.map",
+    "453.c51ad142.chunk.js.map": "/ARQUI2-page-react/static/js/453.c51ad142.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.42089293.js"
+  ]
+}
