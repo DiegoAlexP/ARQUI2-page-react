@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ARQUI2-page-react/static/css/main.1b0861ca.css",
-    "main.js": "/ARQUI2-page-react/static/js/main.fe27f148.js",
+    "main.js": "/ARQUI2-page-react/static/js/main.085499ca.js",
     "static/js/453.c51ad142.chunk.js": "/ARQUI2-page-react/static/js/453.c51ad142.chunk.js",
     "static/media/cate8.png": "/ARQUI2-page-react/static/media/cate8.e9c14809764c78376f30.png",
     "static/media/cate4.jpg": "/ARQUI2-page-react/static/media/cate4.d9331900ae3e356fa332.jpg",
@@ -17,11 +17,11 @@
     "static/media/cate3.jpg": "/ARQUI2-page-react/static/media/cate3.ea8c3e16c92bc2ba0bec.jpg",
     "index.html": "/ARQUI2-page-react/index.html",
     "main.1b0861ca.css.map": "/ARQUI2-page-react/static/css/main.1b0861ca.css.map",
-    "main.fe27f148.js.map": "/ARQUI2-page-react/static/js/main.fe27f148.js.map",
+    "main.085499ca.js.map": "/ARQUI2-page-react/static/js/main.085499ca.js.map",
     "453.c51ad142.chunk.js.map": "/ARQUI2-page-react/static/js/453.c51ad142.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1b0861ca.css",
-    "static/js/main.fe27f148.js"
+    "static/js/main.085499ca.js"
   ]
 }
