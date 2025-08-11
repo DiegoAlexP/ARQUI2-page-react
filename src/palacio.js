@@ -6,6 +6,7 @@ function Palacio() {
     <div className="App">
       <h1>Proyecto - Arquitectura De computadores y Ensambladores 2 - Grupo 2 </h1>
         <h2>Palacio Nacional de la Cultura</h2>
+        <h3>Hola esta es una prueba</h3>
     </div>
   );
 }
