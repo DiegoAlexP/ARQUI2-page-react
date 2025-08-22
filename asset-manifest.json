@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/ARQUI2-page-react/static/css/main.1b0861ca.css",
-    "main.js": "/ARQUI2-page-react/static/js/main.085499ca.js",
+    "main.css": "/ARQUI2-page-react/static/css/main.b6608250.css",
+    "main.js": "/ARQUI2-page-react/static/js/main.2b9e23e8.js",
     "static/js/453.c51ad142.chunk.js": "/ARQUI2-page-react/static/js/453.c51ad142.chunk.js",
+    "static/media/estrada.jpg": "/ARQUI2-page-react/static/media/estrada.9e2ecc0c31ac5904940e.jpg",
     "static/media/cate8.png": "/ARQUI2-page-react/static/media/cate8.e9c14809764c78376f30.png",
     "static/media/cate4.jpg": "/ARQUI2-page-react/static/media/cate4.d9331900ae3e356fa332.jpg",
     "static/media/cate1.jpg": "/ARQUI2-page-react/static/media/cate1.51659bc0148d38223bc7.jpg",
@@ -12,16 +13,17 @@
     "static/media/cate6.jpg": "/ARQUI2-page-react/static/media/cate6.feb14aee46933d485953.jpg",
     "static/media/image2.jpg": "/ARQUI2-page-react/static/media/image2.bd6341f4a6aedf0d1899.jpg",
     "static/media/image1.jpg": "/ARQUI2-page-react/static/media/image1.ba5a6ea1c40c43ada76d.jpg",
+    "static/media/palacio1.jpg": "/ARQUI2-page-react/static/media/palacio1.7fbb3ae0df00ec9eb89f.jpg",
     "static/media/image4.jpg": "/ARQUI2-page-react/static/media/image4.820c3bba33fb544f49b9.jpg",
     "static/media/cate7.jpg": "/ARQUI2-page-react/static/media/cate7.167a14eb44a7e4e5d873.jpg",
     "static/media/cate3.jpg": "/ARQUI2-page-react/static/media/cate3.ea8c3e16c92bc2ba0bec.jpg",
     "index.html": "/ARQUI2-page-react/index.html",
-    "main.1b0861ca.css.map": "/ARQUI2-page-react/static/css/main.1b0861ca.css.map",
-    "main.085499ca.js.map": "/ARQUI2-page-react/static/js/main.085499ca.js.map",
+    "main.b6608250.css.map": "/ARQUI2-page-react/static/css/main.b6608250.css.map",
+    "main.2b9e23e8.js.map": "/ARQUI2-page-react/static/js/main.2b9e23e8.js.map",
     "453.c51ad142.chunk.js.map": "/ARQUI2-page-react/static/js/453.c51ad142.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1b0861ca.css",
-    "static/js/main.085499ca.js"
+    "static/css/main.b6608250.css",
+    "static/js/main.2b9e23e8.js"
   ]
 }
