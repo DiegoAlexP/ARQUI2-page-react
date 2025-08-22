@@ -11,7 +11,8 @@ function HomePage() {
     <div className="homepage">
       <header className="hero">
         <div className="hero-overlay">
-          <h1>Proyecto - Arquitectura de Computadores y Ensambladores 2</h1>
+          <h1>Proyecto</h1>
+          <h1>Arquitectura de Computadores y Ensambladores 2</h1>
           <p>
             Sistema Inteligente de Seguridad y Gestión de Tráfico Urbano <br />
             Zona 1, Guatemala
